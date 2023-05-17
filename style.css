@@ -142,7 +142,7 @@ article {
 
 article p{
     font-family: 'Oswald', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     color: #D5896F;
     margin-bottom: 15px;
@@ -153,4 +153,5 @@ article ul{
     list-style: none;
     line-height: 1.5em;
     font-stretch: condensed;
+    font-size: 14px;
 }
