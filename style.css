@@ -133,6 +133,11 @@ footer{
     margin-right:10px;
 }
 
+#pictos img:hover{
+    -webkit-filter: sepia(60%);
+    filter: sepia(60%git);
+}
+
 #contact{
     display: flex;
     color: #D5896F;
