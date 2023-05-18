@@ -4,6 +4,7 @@
 
 ![V-card Mockup](/v-card-demo.png)
 
+The website is fully responsive.
 You can find the live version hosted **[here](https://astrls.github.io/v-card/)**.
 
 ***
