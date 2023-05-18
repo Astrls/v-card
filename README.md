@@ -18,6 +18,7 @@ You can find the live version hosted **[here](https://astrls.github.io/v-card/)*
 | Layout      | Figma       |
 | Text Editor   | VS Code   |
 | Design  | Photopea  |
+| Mock ups  | Photopea & shots.so |
 
 ***
 
