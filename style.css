@@ -179,3 +179,113 @@ article ul:hover {
     font-size:20px;
     
 }
+
+@media only screen and (max-width: 997px) {
+    
+.container{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
+
+aside{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    width:100%;
+    height:20vh;
+}
+
+#signature{
+    display: flex;
+    background-image: url(autodraw_sign_3.png);
+    margin:15px;
+    padding:15px;
+    height:20vh;
+    width: 70%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#photo{
+    display: flex;
+    background-image: url(AS_picture_orange.png);
+    height: 20vh;
+    width:30%;
+    margin:0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    transition: all 1s ease-in-out;
+    
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height:auto;
+    background-color: #04395E;
+    padding-left: 5%;
+}
+
+header h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 64px;
+    color: white;
+    text-align: left;
+    margin-top:20px;
+}
+
+summary{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    color: white;
+    width: 80%;
+    margin-top: 20px;
+    transition: all ease 0.2s;
+}
+
+summary:hover {
+    font-size:16px;
+    width: 80%;
+}
+
+article ul:hover {
+    font-size:14px;
+    
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-top: 20px;
+}
+
+#buttons a{
+    margin-top: 20px;
+    border-style: solid;
+    border-color: #D5896F;
+    border-width: 2px;
+
+}
+
+footer{
+    position:relative;
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 70px;
+
+}
+
+#contact{
+    margin-right:15px;
+}
+
+}
