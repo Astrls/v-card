@@ -19,5 +19,12 @@ You can find the live version hosted **[here](https://astrls.github.io/v-card/)*
 | Text Editor   | VS Code   |
 | Design  | Photopea  |
 
+***
+
+![V-card Mockup 3](/823shots_so.png)
+![V-card Mockup 2](/166shots_so.png)
+
+
+
 
 
